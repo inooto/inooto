@@ -20,7 +20,14 @@
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div>
+  <img alt="top lang" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inooto&layout=donut&theme=tokyonight" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=inooto&theme=tokyonight&show_icons=true" />
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=inooto&theme=tokyonight&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+    
 <!--
 **inooto/inooto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
